@@ -1,0 +1,7 @@
+[package]
+name = "csvtutor"
+version = "0.1.0"
+authors = ["Jacob Meline <jacob.meline@gmail.com>"]
+
+[dependencies]
+csv = "1"
